@@ -1,6 +1,6 @@
 # Hi, I'm Chi Plug Media 👋  
 
-### Full-Stack Developer | Bootcamp Graduate  
+### Full-Stack Developer 
 
 🚀 Passionate about building **scalable web applications** with modern technologies.  
 📚 Currently mastering **MERN stack, Next.js, and cloud deployment**.  
@@ -34,17 +34,7 @@
 
 ### **Tools & DevOps**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Featured Projects  
-
-🔹 **[Project 1 Name](https://github.com/yourusername/project1)** - Short description.  
-🔹 **[Project 2 Name](https://github.com/yourusername/project2)** - Short description.  
-
-*(Replace with your actual projects and links!)*  
 
 ---
 
@@ -57,7 +47,3 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@chiplugmedia)
 
 ---
-
-⭐ **Fun Fact:** I'm also a [mention other passion/hobby]!  
-
-*(Customize this section with your own personality!)*  
